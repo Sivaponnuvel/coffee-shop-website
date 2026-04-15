@@ -10,3 +10,52 @@ body {
     color: whitesmoke;
 }
 
+/* Navbar */
+header{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding: 20px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    list-style-type: none;
+}
+
+nav a{
+    margin: 0 15px;
+    text-decoration: none;
+    color: #eee;
+    transition: 0.3s;
+}
+
+nav a:hover{
+    color: #ffb067;
+}
+
+.Order-btn{
+    background: #a56a3f;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.Order-btn:hover{
+    background: #ffb067;
+}
