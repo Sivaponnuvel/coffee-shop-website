@@ -89,3 +89,34 @@ nav a:hover{
     margin: 15px 0 25px 0;
     color: #ddd;
 }
+
+/* Buttons */
+.buttons{
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 12px 25px;
+    margin-right: 10px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn.light{
+    background: #a56a3f;
+    color: white;
+}
+
+.btn.light:hover{
+    background: #ffb067;
+}
+.btn.dark{
+    background: #f5d3a6;
+    color: #333;
+    font-weight: 400;
+}
+.btn.dark:hover{
+    background: white;
+}
