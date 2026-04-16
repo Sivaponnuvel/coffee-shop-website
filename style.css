@@ -111,6 +111,7 @@ nav a:hover{
 .btn.light{
     background: #a56a3f;
     color: white;
+    text-decoration: none;
 }
 
 .btn.light:hover{
