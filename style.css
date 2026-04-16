@@ -59,3 +59,33 @@ nav a:hover{
 .Order-btn:hover{
     background: #ffb067;
 }
+
+/* Hero */
+.hero{
+    height: 100vh;
+    background: url('Coffee-Background.png') no-repeat center/cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 0 200px 100px;
+}
+
+.hero-content{
+    position: relative;
+}
+
+.hero h1{
+    font-size: 50px;
+}
+.hero h2{
+    font-size: 40px;
+    margin: 10px 0;
+}
+.hero span{
+    font-family: cursive;
+    color: #ffb067;
+}
+.hero p{
+    margin: 15px 0 25px 0;
+    color: #ddd;
+}
