@@ -177,3 +177,48 @@ nav a:hover{
     color: #ffb067;
     font-weight: bold;
 }
+
+/* about section */
+.about{
+    padding: 120px 80px;
+}
+.about-container{
+    display: flex;
+    text-align: left;
+    gap: 50px;
+}
+.about-image img{
+    width: 500px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+.about-image img:hover{
+    transform: scale(1.05);
+}
+.about-content h1{
+    font-size: 40px;
+}
+.about-content h2{
+    margin: 10px 0;
+}
+.about-content p{
+    color: #ccc;
+    margin: 15px 0;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.learn-btn{
+    margin: 15px 0;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    background: #a56a3f;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.learn-btn:hover{
+    background: #ffb067;
+}
