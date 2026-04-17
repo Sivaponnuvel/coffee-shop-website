@@ -128,7 +128,7 @@ nav a:hover{
 
 /* Menu section */
 .menu{
-    padding: 120px 80px;
+    padding: 20px 80px;
     text-align: center;
 }
 .menu h1{
@@ -180,7 +180,7 @@ nav a:hover{
 
 /* about section */
 .about{
-    padding: 120px 80px;
+    padding: 200px 80px;
 }
 .about-container{
     display: flex;
@@ -225,7 +225,7 @@ nav a:hover{
 
 /* Contact Section */
 .contact{
-    padding: 120px 80px;
+    padding: 200px 80px;
     text-align: center;
 }
 .contact h1{
