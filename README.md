@@ -1,10 +1,11 @@
-☕ Coffee Shop Website
+# ☕ Coffee Shop Website
 
 A modern and responsive coffee shop website built using HTML and CSS.
 This project showcases a clean UI design with sections like Menu, About, Contact, and Features.
+
 ---
 
-🚀 Features
+## 🚀 Features
 
 * 🧭 Responsive Navigation Bar
 * 🎯 Hero Section with Call-to-Action
@@ -13,73 +14,92 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 * 📩 Contact Form UI
 * ✨ Features Section
 * 📱 Fully Responsive Design (Mobile + Tablet + Desktop)
+
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3 (Flexbox + Grid)
 * Media Queries (Responsive Design)
+
 ---
 
-🎨 Sections Overview
+## 🎨 Sections Overview
 
-🏠 Home (Hero Section)
+### 🏠 Home (Hero Section)
+
 * Attractive headline
 * Call-to-action buttons (View Menu / Order Now)
 
-☕ Menu
-* Coffee items displayed using CSS Grid
-* Includes:
-    * Espresso
-    * Cappuccino
-    * Latte
-    * Mocha
-    * Cold Coffee
-    * Americano
+### ☕ Menu
 
-📖 About
+* Coffee items displayed using CSS Grid
+
+**Includes:**
+
+* Espresso
+* Cappuccino
+* Latte
+* Mocha
+* Cold Coffee
+* Americano
+
+### 📖 About
+
 * Information about coffee quality and experience
 
-📩 Contact
+### 📩 Contact
+
 * Contact details
 * Simple form UI (Name, Email, Message)
 
-✨ Features
+### ✨ Features
+
 * Freshly Brewed
 * Cozy Ambiance
 * Fast Delivery
+
 ---
 
-📱 Responsive Design
+## 📱 Responsive Design
 
 * ✅ Desktop
 * ✅ Tablet (768px)
 * ✅ Mobile (480px)
+
 ---
 
-💡 How to Run
+## 💡 How to Run
 
-1. Download or clone this repository:
-    git clone https://github.com/Sivaponnuvel/coffee-shop-website/tree/master
+1. Clone the repository:
+
+```
+git clone https://github.com/Sivaponnuvel/coffee-shop-website.git
+```
+
 2. Open the project folder
-3. Run index.html in your browser
+
+3. Run `index.html` in your browser
+
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 * Add JavaScript for interactivity
 * Implement real order system
 * Connect backend (Django)
 * Add animations and transitions
 * Improve accessibility
+
 ---
 
-🙌 Author
+## 🙌 Author
 
 Sivaponnuvel
+
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
