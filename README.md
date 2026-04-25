@@ -1,9 +1,11 @@
 ☕ Coffee Shop Website
+
 A modern and responsive coffee shop website built using HTML and CSS.
 This project showcases a clean UI design with sections like Menu, About, Contact, and Features.
 ---
 
 🚀 Features
+
 * 🧭 Responsive Navigation Bar
 * 🎯 Hero Section with Call-to-Action
 * ☕ Coffee Menu (Grid Layout)
@@ -14,6 +16,7 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 ---
 
 🛠️ Technologies Used
+
 * HTML5
 * CSS3 (Flexbox + Grid)
 * Media Queries (Responsive Design)
@@ -49,12 +52,14 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 ---
 
 📱 Responsive Design
+
 * ✅ Desktop
 * ✅ Tablet (768px)
 * ✅ Mobile (480px)
 ---
 
 💡 How to Run
+
 1. Download or clone this repository:
     git clone https://github.com/Sivaponnuvel/coffee-shop-website/tree/master
 2. Open the project folder
@@ -62,6 +67,7 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 ---
 
 🔮 Future Improvements
+
 * Add JavaScript for interactivity
 * Implement real order system
 * Connect backend (Django)
@@ -70,8 +76,10 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 ---
 
 🙌 Author
+
 Sivaponnuvel
 ---
 
 ⭐ Support
+
 If you like this project, give it a ⭐ on GitHub!
