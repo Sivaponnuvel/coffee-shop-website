@@ -96,7 +96,7 @@ git clone https://github.com/Sivaponnuvel/coffee-shop-website.git
 
 ## 🙌 Author
 
-Sivaponnuvel
+Sivaponnuvel S
 
 ---
 
