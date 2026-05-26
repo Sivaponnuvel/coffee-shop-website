@@ -75,7 +75,7 @@ This project showcases a clean UI design with sections like Menu, About, Contact
 1. Clone the repository:
 
 ```
-git clone https://github.com/Sivaponnuvel/coffee-shop-website.git
+git clone https://github.com/Sivaponnuvel/coffee-shop-website
 ```
 
 2. Open the project folder
